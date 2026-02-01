@@ -7,8 +7,6 @@ Free exam preparation platform for Nigerian students preparing for JAMB, WAEC & 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
-![ExamReady Nigeria Screenshot](https://via.placeholder.com/800x400/3b82f6/ffffff?text=ExamReady+Nigeria)
-
  Features
 
 - ✅ 5,000+ Past Questions - JAMB, WAEC & NECO from official sources
