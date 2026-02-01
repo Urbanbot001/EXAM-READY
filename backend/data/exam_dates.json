@@ -1,0 +1,153 @@
+{
+  "last_updated": "2026-01-28",
+  "exams": [
+    {
+      "id": 1,
+      "exam_name": "JAMB UTME 2026",
+      "exam_type": "jamb",
+      "registration": {
+        "start": "2026-02-01",
+        "end": "2026-03-15",
+        "status": "upcoming",
+        "fee": "₦5,700"
+      },
+      "exam": {
+        "start": "2026-04-10",
+        "end": "2026-05-05",
+        "venue": "CBT Centers Nationwide"
+      },
+      "result": {
+        "release_date": "2026-05-20",
+        "checking_method": "Visit jamb.gov.ng/efacility"
+      },
+      "important_links": {
+        "registration": "https://www.jamb.gov.ng/efacility",
+        "syllabus": "https://www.jamb.gov.ng/syllabus",
+        "brochure": "https://www.jamb.gov.ng/brochure"
+      },
+      "updates": [
+        "Registration portal opens February 1, 2026",
+        "NIN is compulsory for registration",
+        "Mock exam scheduled for March 25, 2026"
+      ]
+    },
+    {
+      "id": 2,
+      "exam_name": "WAEC SSCE (May/June) 2026",
+      "exam_type": "waec",
+      "registration": {
+        "start": "2026-01-10",
+        "end": "2026-03-20",
+        "status": "open",
+        "fee": "₦20,500 (School candidates)"
+      },
+      "exam": {
+        "start": "2026-05-03",
+        "end": "2026-06-15",
+        "venue": "Examination Centers Nationwide"
+      },
+      "result": {
+        "release_date": "2026-07-30",
+        "checking_method": "Visit waecdirect.org with scratch card"
+      },
+      "important_links": {
+        "registration": "https://waeconline.org.ng",
+        "syllabus": "https://waeconline.org.ng/e-learning/",
+        "timetable": "https://waeconline.org.ng/timetable"
+      },
+      "updates": [
+        "Registration currently ongoing",
+        "Practical exams start April 20, 2026",
+        "Private candidates pay ₦36,000"
+      ]
+    },
+    {
+      "id": 3,
+      "exam_name": "NECO SSCE 2026",
+      "exam_type": "neco",
+      "registration": {
+        "start": "2026-02-15",
+        "end": "2026-04-10",
+        "status": "upcoming",
+        "fee": "₦15,200"
+      },
+      "exam": {
+        "start": "2026-06-01",
+        "end": "2026-07-20",
+        "venue": "Examination Centers Nationwide"
+      },
+      "result": {
+        "release_date": "2026-08-25",
+        "checking_method": "Visit neco.gov.ng/results"
+      },
+      "important_links": {
+        "registration": "https://www.neco.gov.ng",
+        "syllabus": "https://www.neco.gov.ng/syllabus",
+        "timetable": "https://www.neco.gov.ng/timetable"
+      },
+      "updates": [
+        "Registration opens February 15, 2026",
+        "Internal candidates register through schools",
+        "External candidates visit NECO state offices"
+      ]
+    },
+    {
+      "id": 4,
+      "exam_name": "JAMB Direct Entry 2026",
+      "exam_type": "jamb",
+      "registration": {
+        "start": "2026-06-01",
+        "end": "2026-07-15",
+        "status": "upcoming",
+        "fee": "₦5,500"
+      },
+      "exam": {
+        "start": "N/A",
+        "end": "N/A",
+        "venue": "No examination required"
+      },
+      "result": {
+        "release_date": "N/A",
+        "checking_method": "Admission based on credentials"
+      },
+      "important_links": {
+        "registration": "https://www.jamb.gov.ng/efacility",
+        "requirements": "https://www.jamb.gov.ng/de-requirements"
+      },
+      "updates": [
+        "For candidates with A-Level, NCE, OND or equivalent",
+        "Direct Entry into 200 level",
+        "No UTME required"
+      ]
+    },
+    {
+      "id": 5,
+      "exam_name": "WAEC GCE (Nov/Dec) 2026",
+      "exam_type": "waec",
+      "registration": {
+        "start": "2026-07-01",
+        "end": "2026-09-15",
+        "status": "upcoming",
+        "fee": "₦36,000"
+      },
+      "exam": {
+        "start": "2026-11-05",
+        "end": "2026-12-20",
+        "venue": "Examination Centers Nationwide"
+      },
+      "result": {
+        "release_date": "2027-01-30",
+        "checking_method": "Visit waecdirect.org"
+      },
+      "important_links": {
+        "registration": "https://waeconline.org.ng",
+        "syllabus": "https://waeconline.org.ng/e-learning/"
+      },
+      "updates": [
+        "For private candidates only",
+        "Registration opens July 2026",
+        "All subjects available"
+      ]
+    }
+  ]
+}
